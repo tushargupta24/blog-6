@@ -1,0 +1,54 @@
+{
+    "blog-6": [
+      {
+        "id": "blog-6",
+        "img" : "https://www.livecbse.com/blog/wp-content/uploads/2022/02/The-only-way-to-learn-mathematics-is-to-do-MATHEMATICS-2.png",
+        "title": "HOW TO SCORE 100/100 IN CBSE MATHEMATICS?",
+        "content": ["Most of the students find maths to be a strenuous and burdensome subject. Also, Some students are good at this subject but fail to achieve full marks.","In the following blog, we will discuss some of the most efficient strategies to score 100/100 in CBSE mathematics."]
+      },
+      {
+        "id": "blog-6",
+        "listheading" :" GET STARTED ON TIME",
+        "listcontent": " We all know that the CBSE maths syllabus is huge. So it is better to start with it as soon as your session starts. This will save you from overburdening yourself in the last few months of your exam."
+      },
+      {
+        "id": "blog-6",
+        "listheading" :" SOLVE PREVIOUS YEAR SAMPLE PAPERS        ",
+        "listcontent": "The previous year’s sample paper gives you an idea of the pattern of questions. And it will help you in self-evaluation. You’ll know how to divide your weight and plan accordingly."
+      },
+      {
+        "id": "blog-6",
+        "listheading" :"ACKNOWLEDGE YOUR GREY AREAS",
+        "listcontent": "Don’t cut your weak areas, In fact, pay more attention to them. After going through the whole syllabus and solving sample papers you know where you get stuck. So, devote more time to it.",
+        "listli": ["Make a separate formula note for them and revise it daily. Or solve a few questions from that part regularly."]
+      },
+      {
+        "id": "blog-6",
+        "listheading" :" TIME MANAGEMENT",
+        "listcontent": "Learn how to manage time before going for the actual time. Practice by taking tests at home. Read all the questions beforehand and start with the questions you’re sure about. Don’t get stuck with one question for a long time, revisit it later.",
+        "listli": ["And keep some time for revising. This will save you from doing silly mistakes."]
+      },
+
+      {
+        "id": "blog-6",
+        "listheading" :" AVOID OVERWRITING IN YOUR ANSWER SCRIPT.",
+        "listcontent": "Keep your answer script as much neat as possible. Don’t scribble if you have made mistake in any of the answers. And keep enough between your sums. This is one of the most simple tricks to secure little extra marks."
+      },
+      {
+        "id": "blog-6",
+        "listheading" :" SOLVE EXAMPLES",
+        "listcontent": "Solve an example of any book you’re following (But know NCERT well). Try to solve them on your own rather than seeing and solving. This will also increase your morale and confidence.",
+        "listli": ["Important of all is practice and we all know that practice makes a man perfect. The more you’ll solve sums, the more confidence you’ll gain. Follow these steps and you’re just one step ahead of scoring full marks in CBSE Mathematics."]
+      },
+      {
+        "listwithInternalLinksheading" : " Related Links ",
+        "listwithInternalLinks" :[
+        {"link" : "https://www.studybuddy.store","content" : "Study Buddy Page"},
+        {"link" : "https://www.studybuddy.store/notes","content" : "Free Notes 6th to 12th Class"},
+        {"link" : "https://www.studybuddy.store/syllabus","content" : "NCERT Syllabus"},
+        {"link" : "https://www.studybuddy.store/py-ques","content" : "PY Question papers"}
+      ]
+      }
+      
+    ]
+  }
